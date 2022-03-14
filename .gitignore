@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+# ignore sanity backend node modules
+
+firstsanitynextjs/node_modules
+firstsanitynextjs/dist
+
 # testing
 /coverage
 
